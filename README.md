@@ -1,2 +1,2 @@
 # vuespringbootstart
-vues &amp; pringboot CRUD deo
+vues &amp; pringboot CRUD deom
